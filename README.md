@@ -71,3 +71,4 @@ pip install opencv-python dlib imutils scipy numpy pygame
 
 - The system's accuracy depends on the lighting conditions and the positioning of the user's face relative to the camera.
 - The EAR threshold and the frame check count may need adjustment based on the user's unique facial features and the environment.
+
